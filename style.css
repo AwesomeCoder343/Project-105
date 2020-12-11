@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(149, 201, 224);
+    color: white;
+}
+.heading{
+    width: 80%;
+    font-size: 20px;
+
+
+}
+.list_of_people, #result_object_name, #result_object_accuracy{
+    color: black;
+}
+#camera{
+    border: 2px  black dashed;
+    width:350px;
+    height: 300px;
+}
